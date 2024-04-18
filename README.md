@@ -1,7 +1,7 @@
 
 <!---# 🏄‍♂️ Jollibe Babanto Dablo --->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🏄‍♂️+Jollibe+;+Babanto+Pedro+Dablo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+;🏄‍♂️+Jollibe+Babanto+Dablo!;" />
 </h1>
 
 **` JDabs Official (Developer / Filmmaker / Creator / Music Producer)`**
