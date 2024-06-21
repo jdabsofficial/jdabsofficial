@@ -1,7 +1,8 @@
 
 <!---# Welcome --->
-    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/abxlfazl/abxlfazl/main/assets/github.webp" width="170" />
+
 <h1 align="center">
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/abxlfazl/abxlfazl/main/assets/github.webp" width="170" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=***+JDabs+Official+***+;Jollibe+Babanto+Dablo!;" />
 </h1>
 
