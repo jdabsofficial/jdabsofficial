@@ -56,11 +56,12 @@
 ### 🥇 Achievements
 • Best in Mobile App & Development </br>
 • Best in Intermediate Java Programming **(STI)** </br>
-• Best in Intermediate Android Programming **(STI)**
-• Best in Intermediate Python Programming **(STI)**
-• Best in IT in Mobile App & Web Development **(STI)**
-• Highest Honor Student Award **(2021 - 2023)**
-• GDSC **(Google Developer's Student Club)** Team Lead
+• Best in Intermediate Android Programming **(STI)** </br>
+• Best in Intermediate Python Programming **(STI)** </br>
+• Best in IT in Mobile App & Web Development **(STI)** </br>
+• Highest Honor Student Award **(2021 - 2023)** </br>
+• GDSC **(Google Developer's Student Club)** Team Lead </br>
+• University of Cebu Banilad **Deans Lister (2023- 2024)**
 
  
 <br />
