@@ -59,7 +59,7 @@
 • GDSC **(Google Developer's Student Club)** Team Lead </br>
 • University of Cebu Banilad **Deans Lister (2023- 2024)**
  
-<br />
+<br /> <br />
 ---
 ### 📺 Subscribe to my YouTube Channel
 
