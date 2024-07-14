@@ -51,7 +51,20 @@
 
 <br />
 
-#
+---
+
+### 🥇 Achievements
+• Best in Mobile App & Development
+• Best in Intermediate Java Programming **(STI)**
+• Best in Intermediate Android Programming **(STI)**
+• Best in Intermediate Python Programming **(STI)**
+• Best in IT in Mobile App & Web Development **(STI)**
+• Highest Honor Student Award **(2021 - 2023)**
+• GDSC **(Google Developer's Student Club)** Team Lead
+
+ 
+<br />
+---
 
 ### 📺 Subscribe to my YouTube Channel
 
