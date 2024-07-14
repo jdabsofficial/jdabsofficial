@@ -54,8 +54,8 @@
 ---
 
 ### 🥇 Achievements
-• Best in Mobile App & Development
-• Best in Intermediate Java Programming **(STI)**
+• Best in Mobile App & Development </br>
+• Best in Intermediate Java Programming **(STI)** </br>
 • Best in Intermediate Android Programming **(STI)**
 • Best in Intermediate Python Programming **(STI)**
 • Best in IT in Mobile App & Web Development **(STI)**
