@@ -46,10 +46,9 @@
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" />
           
              
-<br />
+<br /> <br />
 
 ---
-<br />
 ### 🥇 Achievements
 • Best in Mobile App & Development </br>
 • Best in Intermediate Java Programming **(STI)** </br>
