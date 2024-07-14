@@ -60,6 +60,7 @@
 • University of Cebu Banilad **Deans Lister (2023- 2024)**
  
 <br />
+---
 ### 📺 Subscribe to my YouTube Channel
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/jdabsofficial?sub_confirmation=1)
