@@ -204,10 +204,4 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
  
 <br /> <br />
 ---
-### 📺 Subscribe to my YouTube Channel
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/jdabsofficial?sub_confirmation=1)
-
-
-#
-[youtube]: https://youtube.com/jdabsofficial
