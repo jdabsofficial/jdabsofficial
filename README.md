@@ -168,11 +168,11 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
       <br>DaVinci Resolve 18
     </td>
     <td align="center">
-      <img src="https://wallpapers.com/images/hd/f-l-studio-logo-icon-bywujcetpfezokh6.jpg" width="40" height="40"/>
+      <img src="https://wallpapers.com/images/hd/f-l-studio-logo-icon-bywujcetpfezokh6.jpg" width="30" height="40"/>
       <br>FL Studio
     </td>
     <td align="center">
-      <img src="https://i.redd.it/14lumiyoqwy51.png" width="25" height="40"/>
+      <img src="https://i.redd.it/14lumiyoqwy51.png" width="40" height="40"/>
       <br>Ableton
     </td>
     <td align="center">
