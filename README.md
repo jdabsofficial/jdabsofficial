@@ -6,7 +6,7 @@
     <!----<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=***+JDabs+Official+***+;Jollibe+Babanto+Dablo!;" />--->
 </h1>
 
-**` JDabs Official (Developer / Filmmaker / Creator / Music Producer / Sound Mix Engr.)`**
+**` JDabs Official (Developer / Filmmaker / Creator / Music Producer / Mix Engr.)`**
 
 Let's connect and collaborate on exciting projects! Drop me a message, and let's make something awesome together. 🚀
 
