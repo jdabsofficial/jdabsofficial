@@ -90,7 +90,7 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
       <br>ASP.NET 8
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
       <br>Bootstrap
     </td>
     <td align="center">
@@ -105,7 +105,7 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-      <br>HTML 4/5
+      <br>HTML 5
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -156,7 +156,7 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
       <br>Adobe Photoshop
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
       <br>Adobe Illustrator
     </td>
     <td align="center">
@@ -172,7 +172,7 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
       <br>FL Studio
     </td>
     <td align="center">
-      <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F14lumiyoqwy51.png" width="40" height="40"/>
+      <img src="https://i.redd.it/14lumiyoqwy51.png" width="25" height="40"/>
       <br>Ableton
     </td>
     <td align="center">
