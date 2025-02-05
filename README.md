@@ -198,7 +198,7 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
 • Best in IT in Mobile App & Web Development **(STI)** </br>
 • Highest Honor Student Award **(2021 - 2023)** </br>
 • GDSC **(Google Developer's Student Club)** Team Lead </br>
-• University of Cebu Banilad **Deans Lister (2023- 2024)** </br>
+• University of Cebu Banilad **Deans Lister (2022- 2024)** </br>
 • Hack4Gov3 | DICT Capture the Flag
   Cyber Security Competition Placer **(2024)**
  
