@@ -200,7 +200,10 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
 • GDSC **(Google Developer's Student Club)** Team Lead </br>
 • University of Cebu Banilad **Deans Lister (2022- 2024)** </br>
 • Hack4Gov3 | DICT Capture the Flag
-  Cyber Security Competition Placer **(2024)**
+  Cyber Security Competition Placer **(2024)** </br>
+• 2nd Place | Ui/Ux Design Competition University of Cebu Banilad **(2025)**
+
+  
  
 <br /> <br />
 ---
