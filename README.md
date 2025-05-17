@@ -66,8 +66,8 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
       <br>Php
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-      <br>C#
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+      <br>NodeJs
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -76,6 +76,19 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
   </tr>
 </table>
 
+### API Testing & Development
+<table>
+  <tr>
+    <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/>
+      <br>Swagger
+    </td>
+    <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
 
 
 ### Frameworks and Libraries
