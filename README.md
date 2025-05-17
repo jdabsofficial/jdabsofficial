@@ -201,6 +201,17 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
       <br>Logic Pro X
     </td>
   </tr>
+
+     <tr>
+        <td align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" height="40"/>
+          <br>Unity
+        </td>
+        <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" height="40"/>
+            <br>Blender
+        </td>
+    </tr>
 </table>
           
              
