@@ -152,7 +152,7 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
     </td>
       <td align="center">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" width="40" height="40"/>
-      <br>ApacheCassandra
+      <br>Cassandra
     </td>
   </tr>
 </table>
