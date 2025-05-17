@@ -150,6 +150,10 @@ Let's connect and collaborate on exciting projects! Drop me a message, and let's
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
       <br>PostgreSQL
     </td>
+      <td align="center">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" width="40" height="40"/>
+      <br>ApacheCassandra
+    </td>
   </tr>
 </table>
 
